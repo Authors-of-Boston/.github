@@ -1,1 +1,1 @@
-# .github
+# Authors of Boston
